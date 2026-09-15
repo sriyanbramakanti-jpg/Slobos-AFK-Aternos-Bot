@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Sriyan5.aternos.me",
-    "port": 62140,
+    "ip": "boarfish.aternos.host:60847",
+    "port": 60847,
     "version": "",
     "try-creative": false
   },
